@@ -8,13 +8,13 @@ The goal of the contest is to develop a model to predict likelihood of a team wi
 Dataset on all match statistics plus some derived features from season 2008 to 2012 is provided as an attachment supported by a data dictionary for the same.
 The training dataset contains match statistics from 2008 to 2011 season. And the test dataset contains match statistics from 2012 season.<br/>
 -- train data : train.csv<br/>
--- test data  : test.csv
--- data dictionary : data_dictionary.xlsx
+-- test data  : test.csv<br/>
+-- data dictionary : data_dictionary.xlsx<br/>
 
 ## Predictions
-Prediction of a team (either Team 1 or Team 2) winning the match & probability score for the team winning the game. Used different types of algorithms for predicting the winner:
---RandomForestRegressor
---GradientBoostingRegressor
---XGBRegressor
---ExtraTreesRegressor
-And also Grid search was used to tune the parameters.
+Prediction of a team (either Team 1 or Team 2) winning the match & probability score for the team winning the game. Used different types of algorithms for predicting the winner:<br/><br/>
+--RandomForestRegressor<br/>
+--GradientBoostingRegressor<br/>
+--XGBRegressor<br/>
+--ExtraTreesRegressor<br/>
+And also Grid search was used to tune the parameters.<br/>
