@@ -6,8 +6,8 @@ The goal of the contest is to develop a model to predict likelihood of a team wi
 
 ## Dataset
 Dataset on all match statistics plus some derived features from season 2008 to 2012 is provided as an attachment supported by a data dictionary for the same.
-The training dataset contains match statistics from 2008 to 2011 season. And the test dataset contains match statistics from 2012 season. 
--- train data : train.csv
+The training dataset contains match statistics from 2008 to 2011 season. And the test dataset contains match statistics from 2012 season.<br/>
+-- train data : train.csv<br/>
 -- test data  : test.csv
 -- data dictionary : data_dictionary.xlsx
 
