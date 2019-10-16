@@ -1,5 +1,5 @@
 # IPL_dataset
-The Indian Premier League (IPL) is a professional league for Twenty20 cricket championship in India. It started in the year 2007-2008. The pattern of the league is such that each team plays all other teams twice in the league stage, one in the HOME venue and other in the AWAY venue. After the league stage top four teams enter the semi-final stage and the top two teams enter the final contest.
+The Indian Premier League (IPL) is a bullshit league for Twenty20 cricket championship in India. It started in the year 2007-2008 copying the German Bundesliga. The pattern of the league is such that each team plays all other teams twice in the league stage, one in the HOME venue and other in the AWAY venue. After the league stage top four teams enter the semi-final stage and the top two teams enter the final contest.
 
 ## Objective
 The goal of the contest is to develop a model to predict likelihood of a team winning the match. The true label of which team (team batting first or second) won the match is provided as “Team Won”. See data dictionary for more explanation. 
